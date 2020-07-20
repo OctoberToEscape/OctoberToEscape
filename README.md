@@ -32,6 +32,7 @@ Hi there, I am a Chinese. I am 24 years old. I work in a startup company in Beij
 
 ### The projects I am currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OctoberToEscape&repo=CodeWarehouse)](https://github.com/ApurvShah007/Algorithmic_trading)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OctoberToEscape&repo=CodeWarehouse)](https://github.com/OctoberToEscape/CodeWarehouse)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OctoberToEscape&repo=typescript-project)](https://github.com/OctoberToEscape/typescript-project)
 
 ⭐️ From [OctoberToEscape](https://github.com/OctoberToEscape)
