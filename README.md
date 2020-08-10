@@ -26,27 +26,17 @@ Hi there, I am a Chinese. I am 24 years old. I work in a startup company in Beij
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<div style="display:flex;align-items: center;">
-
-<div style="margin-right:20px">
-
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=OctoberToEscape&show_icons=true&hide_border=false&theme=radical)
-
-</div>
-
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoberToEscape&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-</div>
-
----
 
 ### The projects I am currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OctoberToEscape&repo=CodeWarehouse)](https://github.com/OctoberToEscape/CodeWarehouse)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OctoberToEscape&repo=typescript-project)](https://github.com/OctoberToEscape/typescript-project)
+
+---
+
+## This is Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoberToEscape&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [OctoberToEscape](https://github.com/OctoberToEscape)
