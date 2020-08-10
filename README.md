@@ -30,21 +30,17 @@ Hi there, I am a Chinese. I am 24 years old. I work in a startup company in Beij
 
 <div style="margin-right:20px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoberToEscape&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=OctoberToEscape&show_icons=true&hide_border=false&theme=radical)
 
 </div>
 
 <div>
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=OctoberToEscape&show_icons=true&hide_border=false&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoberToEscape&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 </div>
-
-<!-- ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=OctoberToEscape&show_icons=true&hide_border=false&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctoberToEscape&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
