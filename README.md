@@ -11,7 +11,7 @@ Hi there, I am a Chinese. I am 24 years old. I work in a startup company in Beij
 -   🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 Please email via he960301@163.com to reach me.
--   📝 See my [Curriculum Vitae](https://octobertoescape.github.io/resume/dist/index.html#/) to get more info.
+-   📝 See my [Curriculum Vitae](https://octobertoescape.github.io/resume-introduce/dist/) to get more info.
 
 **Languages and Tools:**
 
